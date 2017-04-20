@@ -1,7 +1,7 @@
 {
   "name"        : "LjliveBlock",
   "description" : "Blocks Livejournal's div#ljlive element.",
-  "version"     : "0.1",
+  "version"     : "0.2",
   "manifest_version" : 2,
   "icons" : {
     "16"  : "images/b-48.png",
